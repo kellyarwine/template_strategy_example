@@ -1,6 +1,5 @@
 package Strategy;
 
-import com.TemplateMethod.FIFO;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
